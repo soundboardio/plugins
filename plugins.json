@@ -1,8 +1,12 @@
 [
-    {
-        "name": "Lakatoš",
-        "github": "aquasoup",
-        "repository": "soundboard-lakatos",
-        "branch": "next"
+  {
+    "name": "Lakatoš",
+    "description": "Miluju svoji práci!",
+    "author": "Sám Život",
+    "color": "#0077c2",
+    "board": {
+      "type": "github",
+      "src": "aquasoup/lakatos"
     }
+  }
 ]
