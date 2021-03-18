@@ -1,8 +1,22 @@
 [
-    {
-        "name": "Lakatoš",
-        "github": "aquasoup",
-        "repository": "soundboard-lakatos",
-        "branch": "next"
+  {
+    "name": "Lakatoš",
+    "description": "Miluju svoji práci!",
+    "author": "Sám Život",
+    "color": "#0077c2",
+    "board": {
+      "type": "github",
+      "src": "aquasoup/lakatos"
     }
+  },
+  {
+    "name": "Jiří Kára",
+    "description": "Už si tady měl bejt čtyři minuty, ty magore!",
+    "author": "Sám Život",
+    "color": "#087f23",
+    "board": {
+      "type": "github",
+      "src": "aquasoup/jirikara"
+    }
+  }
 ]
