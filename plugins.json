@@ -18,5 +18,15 @@
       "type": "github",
       "src": "aquasoup/jirikara"
     }
-  }
+  },
+  {
+    "name": "Pepa",
+    "description": "Zítra se naučím s klávesnicí",
+    "author": "DP Team",
+    "color": "#795548",
+    "board": {
+      "type": "github",
+      "src": "aquasoup/pepa"
+    }
+  }  
 ]
