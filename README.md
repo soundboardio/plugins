@@ -1,6 +1,6 @@
 # Sounboardio plugins
 
-There is a json list of soundboardio plugins, that are visible from main page of soundboardio project. If you want to be there, give a pull request to this repository with your credentials and other stuff to **plugins.json**
+There is a json list of soundboardio plugins, that are visible from main page of soundboardio project. If you want to be there (on the main page) add your credentials and other stuff to **plugins.json** and give a pull request.
 
 ## example
 
