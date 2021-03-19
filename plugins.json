@@ -3,6 +3,7 @@
     "name": "Lakatoš",
     "description": "Miluju svoji práci!",
     "author": "Sám Život",
+    "lang": "cs",
     "color": "#0077c2",
     "board": {
       "type": "github",
@@ -13,6 +14,7 @@
     "name": "Jiří Kára",
     "description": "Už si tady měl bejt čtyři minuty, ty magore!",
     "author": "Sám Život",
+    "lang": "cs",
     "color": "#087f23",
     "board": {
       "type": "github",
@@ -23,6 +25,7 @@
     "name": "Pepa",
     "description": "Zítra se naučím s klávesnicí",
     "author": "DP Team",
+    "lang": "cs",
     "color": "#795548",
     "board": {
       "type": "github",

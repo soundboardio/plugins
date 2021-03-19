@@ -15,6 +15,7 @@ Do you want to be in our list on homepage [SoundBoardio](https://soundboardio.co
     "description": "Everybody be cool, this is a robbery!",
     "author": "Quentin Tarantino",
     "color": "#E91E63",
+    "lang": "en",
     "board": {
       "type": "github",
       "src": "quentin/pulp-fiction"
