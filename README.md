@@ -31,6 +31,13 @@ Example `plugins.json` file
 ]
 ```
 
+## Some plugins
+
+> For you inspiration
+
+- Lakatoš: [app](https://soundboardio.com/app/lakatos), [code](https://github.com/aquasoup/soundboardio-lakatos)
+- Jiří Kára: [app](https://soundboardio.com/app/jirikara), [code](https://github.com/aquasoup/soundboardio-jirikara)
+
 ## Donation ❤️
 
 This project and platform [SoundBoardio.com](soundboardio.com) is completely free and we're making it with love :)
