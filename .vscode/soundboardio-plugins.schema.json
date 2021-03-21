@@ -1,0 +1,47 @@
+{
+  "type": "array",
+  "title": "SoundBoardio plugins",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["name", "description", "author", "lang", "color", "board"],
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Sound Board name. Used in list on homepage."
+      },
+      "description": {
+        "type": "string",
+        "description": "Sound Board description"
+      },
+      "author": {
+        "type": "string",
+        "description": "Author name. Used in list on homepage."
+      },
+      "lang": {
+        "type": "string",
+        "description": "Default language for your Sound Board (in ISO 639-1). Leave empty if there is no default language"
+      },
+      "color": {
+        "type": "string",
+        "description": "Main tile color on homepage"
+      },
+      "board": {
+        "type": "object",
+        "required": ["type", "src"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["github", "url"],
+            "description": "Type of source. Usually \"github\""
+          },
+          "src": {
+            "type": "string",
+            "description": "Github repository pattern. In format: myname/myrepository",
+            "pattern": "^(\\w+)/(\\w+)"
+          }
+        }
+      }
+    }
+  }
+}

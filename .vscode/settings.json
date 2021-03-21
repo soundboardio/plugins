@@ -10,7 +10,7 @@
   "json.schemas": [
     {
       "fileMatch": ["/plugins.json"],
-      "url": "./.vscode/soundboardio.schema.json"
+      "url": "./.vscode/soundboardio-plugins.schema.json"
     }
   ],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
