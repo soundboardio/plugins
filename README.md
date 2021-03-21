@@ -1,12 +1,12 @@
 # SounBoardio Plugins
 
-Do you want to be in our list on homepage [SoundBoardio](https://soundboardio.com)? 
+Do you want to be in our list on homepage [SoundBoardio.com](https://soundboardio.com)?
 
 [Create](https://soundboardio.com/create) your own **Sound Board** and when you have it, give us a pull request here
 
 ## Example
 
-`plugins.json` file
+Example `plugins.json` file
 
 ```json
 [

@@ -7,6 +7,12 @@
     "source.organizeImports": true,
     "source.fixAll": true
   },
+  "json.schemas": [
+    {
+      "fileMatch": ["/plugins.json"],
+      "url": "./.vscode/soundboardio.schema.json"
+    }
+  ],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "typescript.tsdk": "node_modules/typescript/lib",
   "editor.formatOnSave": true,
