@@ -7,7 +7,7 @@
     "color": "#0077c2",
     "board": {
       "type": "github",
-      "src": "soundboardio/lakatos"
+      "src": "soundboardio/soundboardio-lakatos"
     }
   },
   {
@@ -18,7 +18,7 @@
     "color": "#087f23",
     "board": {
       "type": "github",
-      "src": "soundboardio/jirikara"
+      "src": "soundboardio/soundboardio-jirikara"
     }
   },
   {
@@ -29,7 +29,7 @@
     "color": "#795548",
     "board": {
       "type": "github",
-      "src": "soundboardio/pepa"
+      "src": "soundboardio/soundboardio-pepa"
     }
   }
 ]
