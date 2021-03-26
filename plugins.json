@@ -22,6 +22,17 @@
     }
   },
   {
+    "name": "Jolanda",
+    "description": "Hodně budeš někde!",
+    "author": "Sám Život",
+    "lang": "cs",
+    "color": "#880e4f",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-jolanda"
+    }
+  },
+  {
     "name": "Pepa",
     "description": "Zítra se naučím s klávesnicí",
     "author": "DP Team",
