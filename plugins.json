@@ -33,6 +33,17 @@
     }
   },
   {
+    "name": "Svarta",
+    "description": "Je mu hodně!",
+    "author": "Sám Život",
+    "lang": "cs",
+    "color": "#e65100",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-svarta"
+    }
+  },  
+  {
     "name": "Pepa",
     "description": "Zítra se naučím s klávesnicí",
     "author": "DP Team",
