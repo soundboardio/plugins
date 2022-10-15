@@ -74,7 +74,10 @@
     "tile": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["name", "filename"],
+      "required": [
+        "name",
+        "filename"
+      ],
       "properties": {
         "name": {
           "$ref": "#/definitions/nonEmptyString",
@@ -83,6 +86,13 @@
         "filename": {
           "$ref": "#/definitions/nonEmptyString",
           "description": "Tile url. Can be relative or absolute. Check property rootUrl too."
+        },
+        "tags": {
+          "type": "array",
+          "description": "(Optional) Tags for tile. Will be visible on tile.",
+          "items": {
+            "type": "string"
+          }
         }
       }
     },
