@@ -53,5 +53,16 @@
       "type": "github",
       "src": "soundboardio/soundboardio-pepa"
     }
+  },
+  {
+    "name": "Ptáček",
+    "description": "Neřikej mi zmrde!",
+    "author": "Tompicek",
+    "lang": "cs",
+    "color": "#A020F0",
+    "board": {
+      "type": "github",
+      "src": "Tompicek/soundboardio-ptacek"
+    }
   }
 ]
