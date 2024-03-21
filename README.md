@@ -46,7 +46,7 @@ If you want to help us, please consider [making a donation](https://github.com/s
 
 ## License
 
-Copyright &copy; 2021 [AquaSoup](http://aquasoup.com)
+Copyright &copy; 2024 [AquaSoup](http://aquasoup.com)
 
 Proudly powered by nature 🗻, wind 💨, tea 🍵 and beer 🍺 ;)
 

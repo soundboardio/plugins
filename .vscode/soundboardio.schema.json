@@ -25,6 +25,10 @@
       "type": "string",
       "description": "Sound Board description"
     },
+    "story": {
+      "type": "string",
+      "description": "Sound Board story. Will be visible on board"
+    },
     "author": {
       "type": "object",
       "description": "Info about Author",
