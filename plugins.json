@@ -42,7 +42,18 @@
       "type": "github",
       "src": "soundboardio/soundboardio-svarta"
     }
-  },  
+  },
+  {
+    "name": "Ivánku, kamaráde",
+    "description": "My ten fotbal neděláme pro sebe!",
+    "author": "Egin",
+    "lang": "cs",
+    "color": "#00695f",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-ivanek"
+    }
+  },
   {
     "name": "Pepa",
     "description": "Zítra se naučím s klávesnicí",
