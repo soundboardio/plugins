@@ -55,6 +55,17 @@
     }
   },
   {
+    "name": "Bába pod kořenem",
+    "description": "Kořenový vězeň",
+    "author": "Sám život",
+    "lang": "cs",
+    "color": "#1B5E20",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-baba"
+    }
+  },
+  {
     "name": "Pepa",
     "description": "Zítra se naučím s klávesnicí",
     "author": "DP Team",
