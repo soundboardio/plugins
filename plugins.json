@@ -66,6 +66,17 @@
     }
   },
   {
+    "name": "Do jiného hrníčku",
+    "description": "Co jsi vzal babičce?",
+    "author": "Sám život",
+    "lang": "cs",
+    "color": "#303F9F",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-hrnicek"
+    }
+  },
+  {
     "name": "Pepa",
     "description": "Zítra se naučím s klávesnicí",
     "author": "DP Team",
