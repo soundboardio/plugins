@@ -86,5 +86,16 @@
       "type": "github",
       "src": "soundboardio/soundboardio-pepa"
     }
+  },
+  {
+    "name": "Vlastík Plamínek",
+    "description": "Štěně!",
+    "author": "Aštar Šeran",
+    "lang": "cs",
+    "color": "#cc5200",
+    "board": {
+      "type": "github",
+      "src": "Krakenus/soundboardio-vlastik-plaminek"
+    }
   }
 ]
