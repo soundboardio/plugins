@@ -91,6 +91,10 @@
           "$ref": "#/definitions/nonEmptyString",
           "description": "Tile url. Can be relative or absolute. Check property rootUrl too."
         },
+        "color": {
+          "$ref": "#/definitions/string",
+          "description": "Custom color for tile. If not set, main color will be used."
+        },
         "tags": {
           "type": "array",
           "description": "(Optional) Tags for tile. Will be visible on tile.",
