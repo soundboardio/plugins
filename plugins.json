@@ -96,6 +96,7 @@
     "board": {
       "type": "github",
       "src": "Krakenus/soundboardio-vlastik-plaminek"
+    }
   },
   {
     "name": "Ptáček",
@@ -103,8 +104,9 @@
     "author": "Tompicek",
     "lang": "cs",
     "color": "#A020F0",
-    "board": 
+    "board": {
       "type": "github",
       "src": "Tompicek/soundboardio-ptacek"
+    }
   }
 ]
