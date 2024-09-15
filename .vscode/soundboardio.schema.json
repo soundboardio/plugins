@@ -25,6 +25,10 @@
       "type": "string",
       "description": "Sound Board description"
     },
+    "story": {
+      "type": "string",
+      "description": "Sound Board story. Will be visible on board"
+    },
     "author": {
       "type": "object",
       "description": "Info about Author",
@@ -86,6 +90,10 @@
         "filename": {
           "$ref": "#/definitions/nonEmptyString",
           "description": "Tile url. Can be relative or absolute. Check property rootUrl too."
+        },
+        "color": {
+          "$ref": "#/definitions/string",
+          "description": "Custom color for tile. If not set, main color will be used."
         },
         "tags": {
           "type": "array",
