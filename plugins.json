@@ -95,7 +95,7 @@
     "color": "#cc5200",
     "board": {
       "type": "github",
-      "src": "Krakenus/soundboardio-vlastik-plaminek"
+      "src": "soundboardio/soundboardio-vlastik-plaminek"
     }
   },
   {
