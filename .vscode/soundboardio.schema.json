@@ -27,7 +27,7 @@
     },
     "story": {
       "type": "string",
-      "description": "Sound Board story. Will be visible on board"
+      "description": "Sound Board story. Will be visible on the top of the board"
     },
     "author": {
       "type": "object",
@@ -39,6 +39,7 @@
         },
         "url": {
           "type": "string",
+          "format": "uri",
           "description": "Author's url (will be visible on board)"
         }
       }
@@ -49,6 +50,7 @@
     },
     "color": {
       "type": "string",
+      "pattern": "^#([0-9a-fA-F]{6})$",
       "description": "Main tile color on homepage"
     },
     "version": {
@@ -57,6 +59,7 @@
     },
     "rootUrl": {
       "type": "string",
+      "format": "uri",
       "description": "Main url (or prefix) where your sounds are stored. Can be absolute url (outside github) or relative (sounds are in your github repository)"
     },
     "tiles": {
@@ -71,6 +74,47 @@
       "description": "Main icons. Based on webmanifest specs",
       "items": {
         "$ref": "https://json.schemastore.org/web-manifest#/definitions/manifest_image_resource"
+      }
+    },
+    "lyrics": {
+      "type": "array",
+      "description": "Lyrics for your sounds. Can be array of strings and will be visible on the board",
+      "items": {
+        "type": "string"
+      }
+    },
+    "references": {
+      "type": "array",
+      "description": "References for your sounds. Links to original videos, articles, related things...",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of reference"
+          },
+          "note": {
+            "type": "string",
+            "description": "Note about reference"
+          },
+          "source": {
+            "type": "string",
+            "description": "Source of reference. Can be url or name of book, movie, ..."
+          },
+          "year": {
+            "type": "integer",
+            "description": "Year of reference"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "description": "Url of reference"
+          }
+        },
+        "required": [
+          "name",
+          "url"
+        ]
       }
     }
   },
