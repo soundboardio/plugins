@@ -77,17 +77,6 @@
     }
   },
   {
-    "name": "Pepa",
-    "description": "Zítra se naučím s klávesnicí",
-    "author": "DP Team",
-    "lang": "cs",
-    "color": "#795548",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-pepa"
-    }
-  },
-  {
     "name": "Vlastík Plamínek",
     "description": "Štěně!",
     "author": "Aštar Šeran",
@@ -107,6 +96,28 @@
     "board": {
       "type": "github",
       "src": "Tompicek/soundboardio-ptacek"
+    }
+  },
+  {
+    "name": "Tankový prapor",
+    "description": "Co je to za hovado?",
+    "author": "AquaSoup",
+    "lang": "cs",
+    "color": "#546E7A",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-tankovy-prapor"
+    }
+  },
+  {
+    "name": "Pepa",
+    "description": "Zítra se naučím s klávesnicí",
+    "author": "DP Team",
+    "lang": "cs",
+    "color": "#795548",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-pepa"
     }
   }
 ]
