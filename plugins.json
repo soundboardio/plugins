@@ -95,7 +95,7 @@
     "color": "#A020F0",
     "board": {
       "type": "github",
-      "src": "Tompicek/soundboardio-ptacek"
+      "src": "soundboardio/soundboardio-ptacek"
     }
   },
   {
