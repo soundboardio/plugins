@@ -110,6 +110,17 @@
     }
   },
   {
+    "name": "Mydlil barana",
+    "description": "Nič také konkrétne…",
+    "author": "Sám Život",
+    "lang": "sk",
+    "color": "#616161",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-mydlil-barana"
+    }
+  },
+  {
     "name": "Pepa",
     "description": "Zítra se naučím s klávesnicí",
     "author": "DP Team",
