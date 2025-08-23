@@ -121,6 +121,17 @@
     }
   },
   {
+    "name": "Pletení je moje vášeň",
+    "description": "Néé, prasklej hrníček!",
+    "author": "AquaSoup",
+    "lang": "cs",
+    "color": "#00796B",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-pleteni-je-moje-vasen"
+    }
+  },
+  {
     "name": "Pepa",
     "description": "Zítra se naučím s klávesnicí",
     "author": "DP Team",
