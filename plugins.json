@@ -141,5 +141,38 @@
       "type": "github",
       "src": "soundboardio/soundboardio-pepa"
     }
+  },
+  {
+    "name": "Developers",
+    "description": "Debug your life",
+    "author": "Developers",
+    "lang": "en",
+    "color": "#8B0000",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-developers"
+    }
+  },
+  {
+    "name": "Meeting: Survival Kit",
+    "description": "Survive your meetings",
+    "author": "Corporate People",
+    "lang": "en",
+    "color": "#2D8CFF",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-meeting"
+    }
+  },
+  {
+    "name": "Pulp Fiction",
+    "description": "Say 'what' again!",
+    "author": "Quentin Tarantino",
+    "lang": "en",
+    "color": "#943100",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-pulp-fiction"
+    }
   }
 ]
