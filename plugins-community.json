@@ -1,16 +1,5 @@
 [
   {
-    "name": "Miluju svojí práci",
-    "description": "Oprava lakatoše",
-    "author": "AquaSoup",
-    "lang": "cs",
-    "color": "#0077c2",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-lakatos"
-    }
-  },
-  {
     "name": "Ivánku, kamaráde, můžes mluvit?",
     "description": "My ten fotbal neděláme pro sebe!",
     "author": "Egin",
@@ -19,17 +8,6 @@
     "board": {
       "type": "github",
       "src": "Egin28/soundboardio-ivanek"
-    }
-  },
-  {
-    "name": "Pepa",
-    "description": "Zejtra se naučím s klávesnicí",
-    "author": "DP Team",
-    "lang": "cs",
-    "color": "#795548",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-pepa"
     }
   },
   {
@@ -52,105 +30,6 @@
     "board": {
       "type": "github",
       "src": "Krakenus/soundboardio-vlastik-plaminek"
-    }
-  },
-  {
-    "name": "Jiří Kára",
-    "description": "Už si tady měl bejt čtyři minuty, ty magore!",
-    "author": "Sám Život",
-    "lang": "cs",
-    "color": "#087f23",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-jirikara"
-    }
-  },
-  {
-    "name": "Developers pain",
-    "description": "Debug your life with these classic developer sounds",
-    "author": "AquaSoup",
-    "lang": "en",
-    "color": "#8B0000",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-developers"
-    }
-  },
-  {
-    "name": "Bába pod kořenem",
-    "description": "Uvíznutí rekreantky v kořenovém systému",
-    "author": "AquaSoup",
-    "lang": "cs",
-    "color": "#1B5E20",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-baba"
-    }
-  },
-  {
-    "name": "Kluk s řetízkem",
-    "description": "Já jsem ten řetízek dal omylem do jiného hrníčku",
-    "author": "Sám Život",
-    "lang": "cs",
-    "color": "#303F9F",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-hrnicek"
-    }
-  },
-  {
-    "name": "Svarta Jump",
-    "description": "Je mu hodně!",
-    "author": "Sám Život",
-    "lang": "cs",
-    "color": "#943100",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-svarta"
-    }
-  },
-  {
-    "name": "Jolanda",
-    "description": "Hodně budeš někde!",
-    "author": "Sám Život",
-    "lang": "cs",
-    "color": "#880e4f",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-jolanda"
-    }
-  },
-  {
-    "name": "Meeting: Survival Kit",
-    "description": "Survive your meetings",
-    "author": "AquaSoup",
-    "lang": "en",
-    "color": "#2D8CFF",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-meeting"
-    }
-  },
-  {
-    "name": "Pulp Fiction",
-    "description": "Does he look like a bitch?",
-    "author": "AquaSoup",
-    "lang": "en",
-    "color": "#943100",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-pulp-fiction"
-    }
-  },
-  {
-    "name": "Mydlil barana",
-    "description": "Nič také konkrétne…",
-    "author": "Sám Život",
-    "lang": "sk",
-    "color": "#616161",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-mydlil-barana"
     }
   },
   {
@@ -184,17 +63,6 @@
     "board": {
       "type": "github",
       "src": "Ber1itz/soundboardio-tanoshii"
-    }
-  },
-  {
-    "name": "Tankový prapor",
-    "description": "Co je to za hovado?",
-    "author": "AquaSoup",
-    "lang": "cs",
-    "color": "#546E7A",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-tankovy-prapor"
     }
   },
   {
@@ -242,7 +110,7 @@
     }
   },
   {
-    "name": "ovoves/soundboardio-lm-slapy",
+    "name": "LM Slapy",
     "description": "Palo na houpačce",
     "author": "ovoves",
     "lang": "cs",
@@ -316,17 +184,6 @@
     "board": {
       "type": "github",
       "src": "andyh6785/soundboardio-1"
-    }
-  },
-  {
-    "name": "Hrníčky: Pletení je moje vášeň",
-    "description": "Néé, prasklej hrníček",
-    "author": "Sám Život",
-    "lang": "cs",
-    "color": "#00796B",
-    "board": {
-      "type": "github",
-      "src": "soundboardio/soundboardio-pleteni-je-moje-vasen"
     }
   },
   {
