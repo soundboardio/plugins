@@ -1,0 +1,343 @@
+[
+  {
+    "name": "Miluju svojí práci",
+    "description": "Oprava lakatoše",
+    "author": "AquaSoup",
+    "lang": "cs",
+    "color": "#0077c2",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-lakatos"
+    }
+  },
+  {
+    "name": "Ivánku, kamaráde, můžes mluvit?",
+    "description": "My ten fotbal neděláme pro sebe!",
+    "author": "Egin",
+    "lang": "cs",
+    "color": "#00695f",
+    "board": {
+      "type": "github",
+      "src": "Egin28/soundboardio-ivanek"
+    }
+  },
+  {
+    "name": "Pepa",
+    "description": "Zejtra se naučím s klávesnicí",
+    "author": "DP Team",
+    "lang": "cs",
+    "color": "#795548",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-pepa"
+    }
+  },
+  {
+    "name": "SQL nezmizí",
+    "description": "Prostě",
+    "author": "Adam",
+    "lang": "cs",
+    "color": "#0f0640",
+    "board": {
+      "type": "github",
+      "src": "adamsir/soundboardio-steida"
+    }
+  },
+  {
+    "name": "Vlastík Plamínek",
+    "description": "Já mám pruh, ty máš pruh, máme pruhy. Já ten druhý!",
+    "author": "Krakenus",
+    "lang": "cs",
+    "color": "#cc5200",
+    "board": {
+      "type": "github",
+      "src": "Krakenus/soundboardio-vlastik-plaminek"
+    }
+  },
+  {
+    "name": "Jiří Kára",
+    "description": "Už si tady měl bejt čtyři minuty, ty magore!",
+    "author": "Sám Život",
+    "lang": "cs",
+    "color": "#087f23",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-jirikara"
+    }
+  },
+  {
+    "name": "Developers pain",
+    "description": "Debug your life with these classic developer sounds",
+    "author": "AquaSoup",
+    "lang": "en",
+    "color": "#8B0000",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-developers"
+    }
+  },
+  {
+    "name": "Bába pod kořenem",
+    "description": "Uvíznutí rekreantky v kořenovém systému",
+    "author": "AquaSoup",
+    "lang": "cs",
+    "color": "#1B5E20",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-baba"
+    }
+  },
+  {
+    "name": "Kluk s řetízkem",
+    "description": "Já jsem ten řetízek dal omylem do jiného hrníčku",
+    "author": "Sám Život",
+    "lang": "cs",
+    "color": "#303F9F",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-hrnicek"
+    }
+  },
+  {
+    "name": "Svarta Jump",
+    "description": "Je mu hodně!",
+    "author": "Sám Život",
+    "lang": "cs",
+    "color": "#943100",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-svarta"
+    }
+  },
+  {
+    "name": "Jolanda",
+    "description": "Hodně budeš někde!",
+    "author": "Sám Život",
+    "lang": "cs",
+    "color": "#880e4f",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-jolanda"
+    }
+  },
+  {
+    "name": "Meeting: Survival Kit",
+    "description": "Survive your meetings",
+    "author": "AquaSoup",
+    "lang": "en",
+    "color": "#2D8CFF",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-meeting"
+    }
+  },
+  {
+    "name": "Pulp Fiction",
+    "description": "Does he look like a bitch?",
+    "author": "AquaSoup",
+    "lang": "en",
+    "color": "#943100",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-pulp-fiction"
+    }
+  },
+  {
+    "name": "Mydlil barana",
+    "description": "Nič také konkrétne…",
+    "author": "Sám Život",
+    "lang": "sk",
+    "color": "#616161",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-mydlil-barana"
+    }
+  },
+  {
+    "name": "Jastin JL",
+    "description": "gameshow",
+    "author": "jl",
+    "lang": "en",
+    "color": "purple",
+    "board": {
+      "type": "github",
+      "src": "badabingbadabor/soundboardio-gameshow"
+    }
+  },
+  {
+    "name": "The Office /// GHMP ",
+    "description": "",
+    "author": "Pití",
+    "lang": "",
+    "color": "#ED2939",
+    "board": {
+      "type": "github",
+      "src": "pitiiiiii/soundboardio-kancl"
+    }
+  },
+  {
+    "name": "Funny Moments",
+    "description": "",
+    "author": "Berlitz",
+    "lang": "en",
+    "color": "#ff0000",
+    "board": {
+      "type": "github",
+      "src": "Ber1itz/soundboardio-tanoshii"
+    }
+  },
+  {
+    "name": "Tankový prapor",
+    "description": "Co je to za hovado?",
+    "author": "AquaSoup",
+    "lang": "cs",
+    "color": "#546E7A",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-tankovy-prapor"
+    }
+  },
+  {
+    "name": "NY Quiz 2025",
+    "description": "Quiz?",
+    "author": "AquaSoup",
+    "lang": "en",
+    "color": "#943100",
+    "board": {
+      "type": "github",
+      "src": "dddotsev/soundboardio-quiz-2025"
+    }
+  },
+  {
+    "name": "Sandlot33 Soundboard",
+    "description": "Grip it and rip it!",
+    "author": "Tristan 'TheSTIG' Myers",
+    "lang": "en",
+    "color": "#943100",
+    "board": {
+      "type": "github",
+      "src": "Teh-STIG/soundboardio-sandlot33"
+    }
+  },
+  {
+    "name": "Partička - retardér",
+    "description": "Partička: Párty: Drogový dealer, bludný Holanďan a retardér",
+    "author": "hrasule",
+    "lang": "cs",
+    "color": "#8b2e37",
+    "board": {
+      "type": "github",
+      "src": "hrasule/soundboardio-retarder"
+    }
+  },
+  {
+    "name": "Tirant Lo Blanch",
+    "description": "Tirant!",
+    "author": "Tirant",
+    "lang": "cz",
+    "color": "#FF0000",
+    "board": {
+      "type": "github",
+      "src": "tirant123/soundboardio-tirant"
+    }
+  },
+  {
+    "name": "ovoves/soundboardio-lm-slapy",
+    "description": "Palo na houpačce",
+    "author": "ovoves",
+    "lang": "cs",
+    "color": "#651B69",
+    "board": {
+      "type": "github",
+      "src": "ovoves/soundboardio-lm-slapy"
+    }
+  },
+  {
+    "name": "Pražský úchyl",
+    "description": "Neřikej mi zmrde!",
+    "author": "Tompicek",
+    "lang": "cs",
+    "color": "#A020F0",
+    "board": {
+      "type": "github",
+      "src": "Tompicek/soundboardio-ptacek"
+    }
+  },
+  {
+    "name": "Main Soundboard",
+    "description": "The main Soundboard",
+    "author": "AquaSoup",
+    "lang": "en",
+    "color": "#943100",
+    "board": {
+      "type": "github",
+      "src": "banananapisces/soundboardio-main"
+    }
+  },
+  {
+    "name": "Poslední večeře",
+    "description": "Tak si naber ty svine...",
+    "author": "MyRoNcz",
+    "lang": "cs",
+    "color": "#9C003B",
+    "board": {
+      "type": "github",
+      "src": "myroncz/soundboardio-posledni-vecere"
+    }
+  },
+  {
+    "name": "Šťastně-podcastový hláškovník",
+    "description": "Je libo nějaký vtípek?",
+    "author": "Honza",
+    "lang": "cs",
+    "color": "#BC515A",
+    "board": {
+      "type": "github",
+      "src": "janv27/soundboardio-stastny-hlaskovnik"
+    }
+  },
+  {
+    "name": "Burning stuff",
+    "description": "I felt a smell of burning stuff...",
+    "author": "MyRoNcz",
+    "lang": "en",
+    "color": "#9C003B",
+    "board": {
+      "type": "github",
+      "src": "myroncz/soundboardio-burning-stuff"
+    }
+  },
+  {
+    "name": "Biscuit",
+    "description": "",
+    "author": "Biscuit",
+    "lang": "",
+    "color": "#943100",
+    "board": {
+      "type": "github",
+      "src": "andyh6785/soundboardio-1"
+    }
+  },
+  {
+    "name": "Hrníčky: Pletení je moje vášeň",
+    "description": "Néé, prasklej hrníček",
+    "author": "Sám Život",
+    "lang": "cs",
+    "color": "#00796B",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-pleteni-je-moje-vasen"
+    }
+  },
+  {
+    "name": "Self-help Singh",
+    "description": "",
+    "author": "ruddy",
+    "lang": "en",
+    "color": "#FF9933",
+    "board": {
+      "type": "github",
+      "src": "ruddy200/soundboardio-self-help-singh"
+    }
+  }
+]
