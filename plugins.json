@@ -174,5 +174,16 @@
       "type": "github",
       "src": "soundboardio/soundboardio-pulp-fiction"
     }
+  },
+  {
+    "name": "Self-help Singh",
+    "description": "Self-help Singh - Masood Boomgaard",
+    "author": "ruddy",
+    "lang": "en",
+    "color": "#FF9933",
+    "board": {
+      "type": "github",
+      "src": "ruddy200/soundboardio-self-help-singh"
+    }
   }
 ]
