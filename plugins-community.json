@@ -196,5 +196,16 @@
       "type": "github",
       "src": "ruddy200/soundboardio-self-help-singh"
     }
+  },
+  {
+    "name": "The Uchiumi Nia Sounboard",
+    "description": "Do I really need to write a description? Clearly, it is a soundboard with sounds made by.... you guessed it: Uchiumi Nia",
+    "author": "diaphanous Duck",
+    "lang": "en",
+    "color": "#a6d4dd",
+    "board": {
+      "type": "github",
+      "src": "diaDuck/soundboardio-nia"
+    }
   }
 ]
