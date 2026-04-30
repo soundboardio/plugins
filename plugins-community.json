@@ -207,5 +207,16 @@
       "type": "github",
       "src": "diaDuck/soundboardio-nia"
     }
+  },
+  {
+    "name": "WSR 10u Walkup",
+    "description": "",
+    "author": "WSR",
+    "lang": "",
+    "color": "#943100",
+    "board": {
+      "type": "github",
+      "src": "andyh6785/Soundboardio-2"
+    }
   }
 ]
