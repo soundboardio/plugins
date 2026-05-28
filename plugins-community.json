@@ -218,5 +218,16 @@
       "type": "github",
       "src": "andyh6785/Soundboardio-2"
     }
+  },
+  {
+    "name": "Warcraft 3",
+    "description": "Originální české hlášky",
+    "author": "Josaka",
+    "lang": "cs",
+    "color": "#8C1616",
+    "board": {
+      "type": "github",
+      "src": "JosakaIT/soundboardio-warcraft"
+    }
   }
 ]
