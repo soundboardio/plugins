@@ -229,5 +229,16 @@
       "type": "github",
       "src": "JosakaIT/soundboardio-warcraft"
     }
+  },
+  {
+    "name": "Ghostbusters Tabletop RPG Soundboard",
+    "description": "Tactical audio deck for running Savage Ghostbusters sessions.",
+    "author": "Egon Spengler",
+    "lang": "en",
+    "color": "#e21c24",
+    "board": {
+      "type": "github",
+      "src": "angrystatic/soundboardio-ghostbusters"
+    }
   }
 ]
