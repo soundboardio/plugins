@@ -251,5 +251,27 @@
       "type": "github",
       "src": "jimmykessl/soundboardio-boubakiki"
     }
+  },
+  {
+    "name": "Trolling Barbara is fun!",
+    "description": "How to annoy your overly dramatic colleague in conversation",
+    "author": "Chris",
+    "lang": "en",
+    "color": "#800080",
+    "board": {
+      "type": "github",
+      "src": "christoakes-del/soundboardio-Barbara"
+    }
+  },
+  {
+    "name": "Trolling Barbara is fun!",
+    "description": "How to annoy your overly dramatic colleague in conversation",
+    "author": "Chris",
+    "lang": "en",
+    "color": "#800080",
+    "board": {
+      "type": "github",
+      "src": "christoakes-del/soundboardio-ProfBarbara"
+    }
   }
 ]
