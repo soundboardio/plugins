@@ -273,5 +273,16 @@
       "type": "github",
       "src": "christoakes-del/soundboardio-ProfBarbara"
     }
+  },
+  {
+    "name": "Lysákomat",
+    "description": " ",
+    "author": "chlapec",
+    "lang": "cs",
+    "color": "#fb2bda",
+    "board": {
+      "type": "github",
+      "src": "jirisasinka376/soundboardio-Lysakomat"
+    }
   }
 ]
