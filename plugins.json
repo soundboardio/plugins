@@ -57,7 +57,7 @@
   {
     "name": "Bába pod kořenem",
     "description": "Kořenový vězeň",
-    "author": "Sám život",
+    "author": "Sám Život",
     "lang": "cs",
     "color": "#1B5E20",
     "board": {
@@ -68,7 +68,7 @@
   {
     "name": "Kluk s řetízkem",
     "description": "Do jiného hrníčku",
-    "author": "Sám život",
+    "author": "Sám Život",
     "lang": "cs",
     "color": "#303F9F",
     "board": {
@@ -123,7 +123,7 @@
   {
     "name": "Pletení je moje vášeň",
     "description": "Néé, prasklej hrníček!",
-    "author": "AquaSoup",
+    "author": "Sám Život",
     "lang": "cs",
     "color": "#00796B",
     "board": {
@@ -133,7 +133,7 @@
   },
   {
     "name": "Pepa",
-    "description": "Zítra se naučím s klávesnicí",
+    "description": "Zejtra se naučím s klávesnicí",
     "author": "DP Team",
     "lang": "cs",
     "color": "#795548",
