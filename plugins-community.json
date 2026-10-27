@@ -284,5 +284,16 @@
       "type": "github",
       "src": "jirisasinka376/soundboardio-Lysakomat"
     }
+  },
+  {
+    "name": "Fyzická bolest",
+    "description": "Rozhovor Jana Špačka s občanem ČR na Babišově předvolební kampani",
+    "author": "Vikvoch",
+    "lang": "cs",
+    "color": "#cc5200",
+    "board": {
+      "type": "github",
+      "src": "Vikvoch/soundboardio-fyzicka-bolest"
+    }
   }
 ]
