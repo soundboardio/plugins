@@ -77,6 +77,17 @@
     }
   },
   {
+    "name": "Jiří Babica",
+    "description": "Ich bin ein Gamer!",
+    "author": "Sám Život",
+    "lang": "cs",
+    "color": "#C62828",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-babica"
+    }
+  },
+  {
     "name": "Vlastík Plamínek",
     "description": "Štěně!",
     "author": "Aštar Šeran",
