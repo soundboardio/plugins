@@ -88,6 +88,17 @@
     }
   },
   {
+    "name": "Zkusit šůšn",
+    "description": "Standa Řezáč",
+    "author": "Sám Život",
+    "lang": "cs",
+    "color": "#1f4e8c",
+    "board": {
+      "type": "github",
+      "src": "soundboardio/soundboardio-susn"
+    }
+  },
+  {
     "name": "Vlastík Plamínek",
     "description": "Štěně!",
     "author": "Aštar Šeran",
